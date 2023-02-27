@@ -14,7 +14,7 @@ This repository is based on the Clean-MVI architecture pattern, which combines t
 
 
 #### Technologies
-Compose, Hilt, Retrofit, Room, Coil, mockk, junit
+Compose, Hilt, Retrofit, Room, Coil, mockk, junit, Coroutine and Flow
 
 
 
